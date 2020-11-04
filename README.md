@@ -1,13 +1,4 @@
 # README.md
-🔒💻My bio this is already looking cool, i guess💻🔒
-
-### Hi there 👋
-
-- 🔭 I’m currently working on ``
-- 🌱 I’m currently ``
-- 📫 How to reach me: ``
-- 😄 Pronouns: ``
-- ⚡ Fun fact: ``
 
 <h2>STATS</h2>
 <a href="https://github.com/losel92">
